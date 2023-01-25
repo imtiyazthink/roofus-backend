@@ -8,7 +8,6 @@ import {
   OpenHouse,
   OpenHouseDocument,
 } from 'src/open-house/schema/open-house.schema';
-import { UpdateEnrollHouseDto } from './dto/update-enroll-house.dto';
 
 @Injectable()
 export class EnrollHouseService {
